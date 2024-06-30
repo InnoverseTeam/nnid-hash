@@ -52,7 +52,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <html>
     <head>
         <meta charset="UTF-8">
-        <title>Signup/Login with NNID</title>
+        <title>Search Hash NNID</title>
     </head>
     <body>
         <form action="" method="post">
