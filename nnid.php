@@ -53,6 +53,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <head>
         <meta charset="UTF-8">
         <title>Search Hash NNID</title>
+        <link rel="stylesheet" href="main.css">
     </head>
     <body>
         <form action="" method="post">
